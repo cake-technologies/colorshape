@@ -1,0 +1,14 @@
+{
+  "name": "colorshape.io backend",
+  "description": "Colorshape Backend",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cors": "^2.7.1",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "morgan": "^1.7.0"
+  }
+}
