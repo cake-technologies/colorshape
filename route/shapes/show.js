@@ -11,7 +11,7 @@ var colorize = function (buffer) {
 };
 
 var replaceColor = function (input, color) {
-  return input.replace('%color%', '#' + color);
+  return input.replace('%color%', color);
 }
 
 var bufferize = function (utf8) {
